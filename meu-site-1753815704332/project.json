@@ -1,0 +1,71 @@
+{
+  "blocks": [
+    {
+      "id": "fHCzlg4LPcnHOyZ5ib9GA",
+      "type": "ProfileCard",
+      "props": {
+        "imageUrl": "https://placehold.co/128x128/e0e7ff/3730a3?text=Eu",
+        "nome": "Aline Moura Lopes",
+        "bio": "Enfermeira pela UNIFESP e Residente em Gestão Integrada nos Serviços de Saúde do HCFMUSP",
+        "styleVariant": "top",
+        "nomeStyle": {
+          "color": "#2c3e50",
+          "fontSize": 2,
+          "fontFamily": "Default",
+          "bold": true,
+          "italic": false
+        },
+        "bioStyle": {
+          "color": "#374151",
+          "fontSize": 1,
+          "fontFamily": "Default",
+          "bold": false,
+          "italic": false
+        },
+        "geometry": {
+          "width": 4,
+          "depth": 4,
+          "height": "brick"
+        }
+      }
+    },
+    {
+      "id": "Nx3GGMO7NKJKlRuXtbRUy",
+      "type": "Header",
+      "props": {
+        "titulo": "Título da Página",
+        "corDeFundo": "#1f2937",
+        "tituloStyle": {
+          "color": "#ffffff",
+          "fontSize": 3,
+          "fontFamily": "Default",
+          "bold": true,
+          "italic": false
+        },
+        "geometry": {
+          "width": 8,
+          "depth": 2,
+          "height": "plate"
+        }
+      }
+    },
+    {
+      "id": "rk0ezLyxMv5fIueumyUnw",
+      "type": "LinkList",
+      "props": {
+        "links": [
+          {
+            "text": "Link Principal",
+            "url": "#"
+          }
+        ],
+        "geometry": {
+          "width": 6,
+          "depth": 2,
+          "height": "brick"
+        }
+      }
+    }
+  ],
+  "template": "card"
+}
